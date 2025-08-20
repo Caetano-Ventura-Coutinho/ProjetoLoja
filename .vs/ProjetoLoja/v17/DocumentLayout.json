@@ -1,7 +1,16 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\3ds\\Desktop\\ProjetoLoja\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B01E4A7B-B403-47DD-99C6-0CFE1FF56D05}|ProjetoLoja\\ProjetoLoja.csproj|c:\\users\\3ds\\desktop\\projetoloja\\projetoloja\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B01E4A7B-B403-47DD-99C6-0CFE1FF56D05}|ProjetoLoja\\ProjetoLoja.csproj|solutionrelative:projetoloja\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B01E4A7B-B403-47DD-99C6-0CFE1FF56D05}|ProjetoLoja\\ProjetoLoja.csproj|c:\\users\\3ds\\desktop\\projetoloja\\projetoloja\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B01E4A7B-B403-47DD-99C6-0CFE1FF56D05}|ProjetoLoja\\ProjetoLoja.csproj|solutionrelative:projetoloja\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,8 +18,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\3ds\\Desktop\\ProjetoLoja\\ProjetoLoja\\Program.cs",
+              "RelativeDocumentMoniker": "ProjetoLoja\\Program.cs",
+              "ToolTip": "C:\\Users\\3ds\\Desktop\\ProjetoLoja\\ProjetoLoja\\Program.cs",
+              "RelativeToolTip": "ProjetoLoja\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T11:33:44.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\3ds\\Desktop\\ProjetoLoja\\ProjetoLoja\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "ProjetoLoja\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\3ds\\Desktop\\ProjetoLoja\\ProjetoLoja\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "ProjetoLoja\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T10:40:35.27Z"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
